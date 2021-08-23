@@ -1,5 +1,6 @@
 {
     "name": "loopstudios-landing-page",
+    "author": "Richard William",
     "version": "1.0.0",
     "description": "",
     "main": "app.js",
