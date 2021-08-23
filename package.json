@@ -1,0 +1,22 @@
+{
+    "name": "loopstudios-landing-page",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "dev": "parcel serve src/index.html --port 3000",
+        "build": "parcel build src/index.html"
+    },
+    "author": "Richard William",
+    "license": "ISC",
+    "devDependencies": {
+        "parcel-bundler": "^1.12.5",
+        "sass": "^1.38.0"
+    },
+    "dependencies": {
+        "gsap": "^3.7.1",
+        "imagesloaded": "^4.1.4",
+        "locomotive-scroll": "^4.1.1",
+        "split-type": "^0.2.5"
+    }
+}
